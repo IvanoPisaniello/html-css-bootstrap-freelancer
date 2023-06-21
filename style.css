@@ -21,3 +21,12 @@
 .bg-grey {
     background-color: rgb(59, 83, 109);
 }
+
+.box {
+    min-height: 100%;
+}
+
+.jumbo img {
+    width: 200px;
+    aspect-ratio: 1/1;
+}
