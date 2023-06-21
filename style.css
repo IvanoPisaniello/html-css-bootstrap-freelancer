@@ -1,0 +1,23 @@
+[class*="col-"] {
+    border: 1px solid red;
+    min-height: 50px;
+}
+
+.col {
+    border: 1px solid blue;
+    min-height: 50px;
+}
+
+:root {}
+
+.jumbo {
+    min-height: 400px;
+}
+
+.bg-green {
+    background-color: rgb(25, 188, 155);
+}
+
+.bg-grey {
+    background-color: rgb(59, 83, 109);
+}
